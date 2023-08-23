@@ -28,7 +28,7 @@ Not everything that works on PC works on PojavLauncher. Below is a non-exhaustiv
 - almost all of them don't work because they aren't made with Android's inputs in mind
 
 ## Other Mods
-- [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create) **(Works using ANGLE)**
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel)
 - [Physics Mod](https://www.curseforge.com/minecraft/mc-mods/physics-mod)
 - [Scannable](https://www.curseforge.com/minecraft/mc-mods/scannable) **(Works on 1.12)**
